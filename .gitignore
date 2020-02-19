@@ -42,3 +42,7 @@ test-output
 atlassian-ide-plugin.xml
 .gradletasknamecache
 /nbproject/private/
+
+*.vscode
+*.mvn
+*.factorypath
